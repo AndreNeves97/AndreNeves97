@@ -45,7 +45,7 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 - [Chat Peer-to-Peer com Node.js](https://github.com/AndreNeves97/node-p2p-chat)
 - [Implementações de algoritmos genéticos](https://github.com/AndreNeves97/genetic-algorithm)
 - [Implementações de redes neurais - FGA e MLP](https://github.com/AndreNeves97/neural-network)
-- [Implementação gráfica do algorítmo Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
+- [Implementação gráfica do algoritmo Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 <!--
 **AndreNeves97/AndreNeves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
