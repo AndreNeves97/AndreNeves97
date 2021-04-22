@@ -7,6 +7,17 @@ Desde sempre, um amante de tecnologia e da forma como ela pode ser relevante e t
 Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que por meio da tecnologia, com o aplicativo Qualifica e outros projetos, está sempre em foco do seu objetivo de Evoluir Pessoas e Transformar Vidas
 
 
+# Experiências e habilidades
+
+- Desenvolvimento mobile
+- Desenvolvimento web
+- Javascript (Angular, Ionic)
+- Cordova
+- Flutter
+- Node.js (Express, Nest.js, Typeorm)
+- Java (Spring Boot, JPA)
+- Python
+
 
 
 # Contato
@@ -14,6 +25,13 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 - Email: andreneves3@gmail.com
 - Linkedin: https://www.linkedin.com/in/andre-neves-dev/
 
+# Principais projetos
+
+- [Anatome - Aplicativo para ensino de anatomia](https://github.com/AndreNeves97/app_flutter)
+- Compilador para HTML (Analisador léxico e sintático): https://github.com/AndreNeves97/html-compiler
+- Compilador para linguagem C (Analisador léxico): https://github.com/AndreNeves97/c-lexical-compiler
+- Introdução à Computação Gráfica com WebGL: https://github.com/AndreNeves97/computer-graphics
+- Jogo `Asteroids` desenvolvido em Javascript e A-Frame: https://github.com/leonamtv/cg-aframe
 
 <!--
 **AndreNeves97/AndreNeves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
