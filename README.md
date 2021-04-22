@@ -41,7 +41,7 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 - [Compilador para HTML (Analisador léxico e sintático)](https://github.com/AndreNeves97/html-compiler)
 - [Compilador para linguagem C (Analisador léxico)](https://github.com/AndreNeves97/c-lexical-compiler)
 - [Introdução à Computação Gráfica com WebGL](https://github.com/AndreNeves97/computer-graphics)
-- [Jogo `Asteroids` desenvolvido em Javascript e A-Frame](https://github.com/leonamtv/cg-aframe)
+- [Jogo *Asteroids* desenvolvido em Javascript e A-Frame](https://github.com/leonamtv/cg-aframe)
 - [Chat Peer-to-Peer com Node.js](https://github.com/AndreNeves97/node-p2p-chat)
 - [Implementações de algoritmos genéticos](https://github.com/AndreNeves97/genetic-algorithm)
 - [Implementações de redes neurais - FGA e MLP](https://github.com/AndreNeves97/neural-network)
