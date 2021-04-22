@@ -9,6 +9,11 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 
 
 
+# Contato
+
+- Email: andreneves3@gmail.com
+- Linkedin: https://www.linkedin.com/in/andre-neves-dev/
+
 
 <!--
 **AndreNeves97/AndreNeves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
