@@ -25,27 +25,9 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 - Email: andreneves3@gmail.com
 - Linkedin: https://www.linkedin.com/in/andre-neves-dev/
 
-# Principais projetos públicos
+# Meu portfólio
 
-## Aplicativos mobile e web apps
-
-- [Anatome - Aplicativo para ensino de anatomia](https://github.com/AndreNeves97/app_flutter)
-- [Jogo Drench em Flutter para dois jogadores via conexão Peer-to-Peer](https://github.com/leonamtv/drench-sd)
-- Pedidoctor - Sistema para marcação de consultas em diferentes clínicas médicas
-  - [Frontend - Angular](https://github.com/AndreNeves97/pedidoctor-angular)
-  - [Backend - Node.js / Nest.js](https://github.com/AndreNeves97/pedidoctor-nodejs)
-
-
-## Projetos acadêmicos
-
-- [Compilador para HTML (Analisador léxico e sintático)](https://github.com/AndreNeves97/html-compiler) - Desenvolvido em Python
-- [Compilador para linguagem C (Analisador léxico)](https://github.com/AndreNeves97/c-lexical-compiler) - Desenvolvido em Python
-- [Introdução à Computação Gráfica com WebGL](https://github.com/AndreNeves97/computer-graphics)
-- [Jogo *Asteroids* desenvolvido em Javascript e A-Frame](https://github.com/leonamtv/cg-aframe)
-- [Chat Peer-to-Peer com Node.js](https://github.com/AndreNeves97/node-p2p-chat)
-- [Implementações de algoritmos genéticos - FGA e NSGA](https://github.com/AndreNeves97/genetic-algorithm)
-- [Implementações de redes neurais - Perceptron simples e MLP](https://github.com/AndreNeves97/neural-network)
-- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
+Portfólio disponibilizado aqui: [./portfolio.md](./portfolio/index.md)  
 
 <!--
 **AndreNeves97/AndreNeves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
