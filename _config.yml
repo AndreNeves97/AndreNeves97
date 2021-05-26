@@ -31,7 +31,7 @@ linkedin: https://www.linkedin.com/in/andre-neves-dev/
 
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
