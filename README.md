@@ -27,7 +27,7 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 
 # Meu portfólio
 
-Portfólio disponibilizado aqui: [./portfolio.md](./portfolio/index.md)  
+[Portfólio disponibilizado aqui](./portfolio/index.md)  
 
 <!--
 **AndreNeves97/AndreNeves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
