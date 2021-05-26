@@ -31,7 +31,7 @@ linkedin: https://www.linkedin.com/in/andre-neves-dev/
 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
