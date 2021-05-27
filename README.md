@@ -38,22 +38,21 @@ Abaixo listo meus principais projetos de software e projetos acadêmicos.
 - [Anatome - Aplicativo para ensino de anatomia](https://github.com/AndreNeves97/app_flutter)
 - [Jogo Drench em Flutter para dois jogadores via conexão Peer-to-Peer](#jogo-drench-em-flutter)
 - [Pedidoctor - Sistema para marcação de consultas em diferentes clínicas médicas](#pedidoctor)
+- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 
 ## Trabalhos acadêmicos
 
+- [Álgebra linear](#álgebra-linear)
+- [Algoritmos e estruturas de dados](#algoritmos-e-estruturas-de-dados)
+- [Arquitetura e organização de computadores](#arquitetura-e-organização-de-computadores)
+- [Banco de dados](#banco-de-dados)
 - [Compiladores](#compiladores)
 - [Computação gráfica](#computação-gráfica)
-- [Sistemas distribuídos](sistemas-distribuídos)
+- [Engenharia de software](#engenharia-de-software)
+- [Sistemas distribuídos](#sistemas-distribuídos)
 - [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
-- [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
-
-
-- [Chat Peer-to-Peer com Node.js](https://github.com/AndreNeves97/node-p2p-chat)
-- [Implementações de algoritmos genéticos - FGA e NSGA](https://github.com/AndreNeves97/genetic-algorithm)
-- [Implementações de redes neurais - Perceptron simples e MLP](https://github.com/AndreNeves97/neural-network)
-- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
-
+- [Programação concorrente](#programação-concorrente)
 
 # Projetos do portfólio
 
@@ -66,18 +65,25 @@ Acesse os projetos pelos links abaixo.
 - [Compilador para HTML (Analisador léxico e sintático)](https://github.com/AndreNeves97/html-compiler)
 - [Compilador para linguagem C (Analisador léxico)](https://github.com/AndreNeves97/c-lexical-compiler) 
 
+## Inteligência artifical
 
-## Arquitetura e organização de computadores
-
-- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
-
-- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
+- [Implementações de algoritmos genéticos - FGA e NSGA](https://github.com/AndreNeves97/genetic-algorithm)
+- [Implementações de redes neurais - Perceptron simples e MLP](https://github.com/AndreNeves97/neural-network)
 
 ## Algoritmos e estruturas de dados
 
-- [Explicacao do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
+- [Explicacao do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
 
-- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
+- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
+
+- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
+
+
+## Arquitetura e organização de computadores
+
+- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
+
+- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
 
 ## Programação concorrente
 
