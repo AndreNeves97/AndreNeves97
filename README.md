@@ -1,4 +1,4 @@
-<title>Mobile Developer | André Neves</title>
+# Mobile Developer | André Neves
 
 # Olá, seja bem vindo(a) ao meu perfil
 
