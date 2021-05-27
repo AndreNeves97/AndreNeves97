@@ -55,6 +55,7 @@ Abaixo listo meus principais projetos de software e projetos acadêmicos.
 - [Compiladores](#compiladores)
 - [Computação gráfica](#computação-gráfica)
 - [Engenharia de software](#engenharia-de-software)
+- [Inteligência artifical](#inteligência-artifical)
 - [Sistemas distribuídos](#sistemas-distribuídos)
 - [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
 - [Programação concorrente](#programação-concorrente)
