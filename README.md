@@ -61,6 +61,23 @@ Abaixo listo meus principais projetos de software e projetos acadêmicos.
 
 # Projetos do portfólio
 
+
+## Algoritmos e estruturas de dados
+
+- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
+
+- [Explicação da resolução do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
+   - Descrição do problema: [https://www.urionlinejudge.com.br/judge/pt/problems/view/1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597)
+
+- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
+
+
+## Arquitetura e organização de computadores
+
+- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
+
+- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
+
 ## Compiladores
 
 Na disciplina de compiladores, foram propostos dois trabalhos: Um analisador léxico para a linguagem ANSI-C, e um analisador sintático para HTML.
@@ -74,21 +91,6 @@ Acesse os projetos pelos links abaixo.
 
 - [Implementações de algoritmos genéticos - FGA e NSGA](https://github.com/AndreNeves97/genetic-algorithm)
 - [Implementações de redes neurais - Perceptron simples e MLP](https://github.com/AndreNeves97/neural-network)
-
-## Algoritmos e estruturas de dados
-
-- [Explicacao do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
-
-- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
-
-- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
-
-
-## Arquitetura e organização de computadores
-
-- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
-
-- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
 
 ## Programação concorrente
 
