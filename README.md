@@ -43,7 +43,10 @@ Abaixo listo meus principais projetos de software e projetos acadêmicos.
 ## Trabalhos acadêmicos
 
 - [Compiladores](#compiladores)
-- [Computação gráfica](#computacao-grafica)
+- [Computação gráfica](#computação-gráfica)
+- [Sistemas distribuídos](sistemas-distribuídos)
+- [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
+- [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
 
 
 - [Chat Peer-to-Peer com Node.js](https://github.com/AndreNeves97/node-p2p-chat)
@@ -64,14 +67,37 @@ Acesse os projetos pelos links abaixo.
 - [Compilador para linguagem C (Analisador léxico)](https://github.com/AndreNeves97/c-lexical-compiler) 
 
 
+## Arquitetura e organização de computadores
+
+- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
+
+- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
+
+## Algoritmos e estruturas de dados
+
+- [Explicacao do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
+
+- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/0ad0cde028c44e42a36ea2f10bc31bfb76c57178/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
+
+## Programação concorrente
+
+- [Clusterizção  de  grafos  pelo  algoritmo K-Medoids comutilização  de  multiplas threads](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/PC/Clusteriz%C3%A7%C3%A3o%20%20de%20%20grafos%20%20pelo%20%20algoritmo%20K-Medoids%20com%20utiliza%C3%A7%C3%A3o%20%20de%20%20multiplas%20threads.pdf)
+
+## Álgebra linear
+
+- [Conjuntos Convexos e Programação Linear](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AL/%C3%81lgebra%20Linear%20-%20Programa%C3%A7%C3%A3o%20linear.pdf)
+
 ## Banco de dados
 
-### Seminário sobre bancos de dados NoSQL
+- [Bancos de dados NoSQL](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/BD/Bancos%20de%20dados%20NoSQL.pdf)
+
 
 ## Engenharia de software
 
 
 ### Seminário sobre DevOps
+
+- [DevOps e Ambientes de Execução de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/DevOps%20e%20Ambientes%20de%20Execu%C3%A7%C3%A3o%20de%20Software%0A.pdf)
 
 
 ### Pedidoctor
@@ -82,6 +108,10 @@ Mais informações e códigos:
 - [Frontend - Angular](https://github.com/AndreNeves97/pedidoctor-angular)
 - [Backend - Node.js / Nest.js](https://github.com/AndreNeves97/pedidoctor-nodejs)
 
+Documentações:
+- [Documentação de desenvolvimento de projeto de software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/Documentacao%20de%20software%20-%20Pedidoctor.pdf)
+- [Trabalho prático de Teste de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/Teste%20de%20Software.pdf)
+
 
 ![Marcação de consultas](./portfolio/imgs/pedidoctor/fig1.png)
 
@@ -91,19 +121,43 @@ Mais informações e códigos:
 
 Esse projeto foi parte de um trabalho da disciplina de sistemas distribuídos.
 
-Contém a implementação do jogo Drench no modo multiplayer. O objetivo foi implementar uma comunicação entre dois dispositivos via Sockets sobre os protocolos TCP e UDP.
+Contém a implementação do jogo Drench no modo multiplayer. O objetivo foi implementar uma comunicação entre dois dispositivos via Sockets sobre os protocolos TCP, UDP e gRPC. No momento de estabelecer a conexão, o usuário escolhe qual método utilizar
 
 Mais informações e código: https://github.com/leonamtv/drench-sd
+
+
+Artigos sobre o trabalho:
+- [Comunicação multiplayer com TCP e UDP](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/SD/SD%20-%20Comunica%C3%A7%C3%A3o%20entre%20processos%20com%20TCP%20e%20UDP.pdf)
+- [Comunicação multiplayer com gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/SD/SD%20-%20Comunica%C3%A7%C3%A3o%20entre%20processos%20com%20gRPC.pdf)
+
 
 Vídeo com demosntração do jogo em funcionamento multiplayer: https://www.youtube.com/watch?v=d5h8v_d_-H8
 
 [![Drench video](https://img.youtube.com/vi/d5h8v_d_-H8/hqdefault.jpg)](https://www.youtube.com/watch?v=d5h8v_d_-H8)
 
 
+### Chat Peer-to-Peer
+
+Desenvolvimento de um chat com multiplos usuários conectados ponta-a-ponta.
+
+Mais informações e código: https://github.com/AndreNeves97/node-p2p-chat
+
+
+Vídeo de demosntração: https://www.youtube.com/watch?v=fsdCOiBw28w
+
+[![Drench video](https://img.youtube.com/vi/fsdCOiBw28w/hqdefault.jpg)](https://www.youtube.com/watch?v=fsdCOiBw28w)
+
+
 ## Computação gráfica
 
-- [Introdução à Computação Gráfica com WebGL](https://github.com/AndreNeves97/computer-graphics)
-- [Jogo *Asteroids* desenvolvido em Javascript e A-Frame](https://github.com/leonamtv/cg-aframe)
+Disciplina com foco nos conceitos fundamentais de computação gráfica. Como complementação ao conteúdo teóriico, foram feitos trabalhos práticos em WebGL e A-Frame
+
+- [Introdução à Computação Gráfica com WebGL](https://andreneves97.github.io/computer-graphics/public/)
+- [Jogo *Asteroids* desenvolvido em Javascript e A-Frame](https://leonamtv.github.io/cg-aframe/public/studies/tests-1/animation/)
+
+![Introdução à WebGL](./portfolio/imgs/computer-graphics/fig1.png)
+
+![Introdução à WebGL](./portfolio/imgs/computer-graphics/fig2.png)
 
 
 ## Microprocessadores e microcontroladores
@@ -129,17 +183,13 @@ Teve como objetivo o desenvolvimento de um protótipo para acompanhamento do con
 
 <table>
     <tr>
-        <td><img src="./portfolio/imgs/consumo-energia/mobile1.png">
-        <td><img src="./portfolio/imgs/consumo-energia/mobile2.png">
-        <td><img src="./portfolio/imgs/consumo-energia/mobile3.png">
+        <td>
+            <img src="./portfolio/imgs/consumo-energia/mobile1.png">
+        </td>
+        <td>
+            <img src="./portfolio/imgs/consumo-energia/mobile2.png">
+        </td>
+        <td>
+            <img src="./portfolio/imgs/consumo-energia/mobile3.png">
+        </td>
 </table>
-
-## Arquitetura e organização de computadores
-
-## Programação concorrente
-
-### Trabalho prático sobre tratamento de dados por clusterização com multithreading
-
-
-
-## Álgebra linear
