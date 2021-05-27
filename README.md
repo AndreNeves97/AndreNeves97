@@ -23,11 +23,11 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 # Contato
 
 - Email: andreneves3@gmail.com
-- Linkedin: https://www.linkedin.com/in/andre-neves-dev/
+- Linkedin: [https://www.linkedin.com/in/andre-neves-dev/](https://www.linkedin.com/in/andre-neves-dev/)
 
 # Outros perfis
 
-- Passei direto: https://www.passeidireto.com/perfil/44694466/
+- Passei direto: [https://www.passeidireto.com/perfil/44694466/](https://www.passeidireto.com/perfil/44694466/)
 
 # Meu portfólio
 
@@ -129,7 +129,7 @@ Esse projeto foi parte de um trabalho da disciplina de sistemas distribuídos.
 
 Contém a implementação do jogo Drench no modo multiplayer. O objetivo foi implementar uma comunicação entre dois dispositivos via Sockets sobre os protocolos TCP, UDP e gRPC. No momento de estabelecer a conexão, o usuário escolhe qual método utilizar
 
-Mais informações e código: https://github.com/leonamtv/drench-sd
+Mais informações e código: [https://github.com/leonamtv/drench-sd](https://github.com/leonamtv/drench-sd)
 
 
 Artigos sobre o trabalho:
@@ -137,7 +137,7 @@ Artigos sobre o trabalho:
 - [Comunicação multiplayer com gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/SD/SD%20-%20Comunica%C3%A7%C3%A3o%20entre%20processos%20com%20gRPC.pdf)
 
 
-Vídeo com demosntração do jogo em funcionamento multiplayer: https://www.youtube.com/watch?v=d5h8v_d_-H8
+Vídeo com demosntração do jogo em funcionamento multiplayer: [https://www.youtube.com/watch?v=d5h8v_d_-H8](https://www.youtube.com/watch?v=d5h8v_d_-H8)
 
 [![Drench video](https://img.youtube.com/vi/d5h8v_d_-H8/hqdefault.jpg)](https://www.youtube.com/watch?v=d5h8v_d_-H8)
 
@@ -146,10 +146,10 @@ Vídeo com demosntração do jogo em funcionamento multiplayer: https://www.yout
 
 Desenvolvimento de um chat com multiplos usuários conectados ponta-a-ponta.
 
-Mais informações e código: https://github.com/AndreNeves97/node-p2p-chat
+Mais informações e código: [https://github.com/AndreNeves97/node-p2p-chat](https://github.com/AndreNeves97/node-p2p-chat)
 
 
-Vídeo de demosntração: https://www.youtube.com/watch?v=fsdCOiBw28w
+Vídeo de demosntração: [https://www.youtube.com/watch?v=fsdCOiBw28w](https://www.youtube.com/watch?v=fsdCOiBw28w)
 
 [![Drench video](https://img.youtube.com/vi/fsdCOiBw28w/hqdefault.jpg)](https://www.youtube.com/watch?v=fsdCOiBw28w)
 
@@ -174,7 +174,7 @@ Nessa disciplina, houve aprofundamento sobre arquitetura de computadores, junto 
 
 Um dos trabalhos foi o desenvolvimento de um Cubo de led 8x8x8.
 
-Imagens, vídeos e códigos: https://github.com/AndreNeves97/Cubo-de-led-8x8x8
+Imagens, vídeos e códigos: [https://github.com/AndreNeves97/Cubo-de-led-8x8x8](https://github.com/AndreNeves97/Cubo-de-led-8x8x8)
 
 
 ![Cubo de led 8x8x8](./portfolio/imgs/cubo-led/fig1.png)
@@ -198,4 +198,5 @@ Teve como objetivo o desenvolvimento de um protótipo para acompanhamento do con
         <td>
             <img src="./portfolio/imgs/consumo-energia/mobile3.png">
         </td>
+    </tr>
 </table>
