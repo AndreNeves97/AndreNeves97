@@ -1,3 +1,5 @@
+<title>Mobile Developer | André Neves</title>
+
 # Olá, seja bem vindo(a) ao meu perfil
 
 Sou estudante de Engenharia de Computação pelo CEFET MG e Desenvolvedor de software. Atualmente trabalho com Ionic, além de estudar e desenvolver em Flutter nas horas vagas.
