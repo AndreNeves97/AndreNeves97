@@ -2,12 +2,17 @@
 
 # Olá, seja bem vindo(a) ao meu perfil
 
+<table>
+<td><img src="./profile-avatar.jpeg"></td>
+<td>
 Sou estudante de Engenharia de Computação pelo CEFET MG e Desenvolvedor de software. Atualmente trabalho com Ionic, além de estudar e desenvolver em Flutter nas horas vagas.
 
 Desde sempre, um amante de tecnologia e da forma como ela pode ser relevante e transformadora para o mundo e para as pessoas.
 
 Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que por meio da tecnologia, com o aplicativo Qualifica e outros projetos, está sempre em foco do seu objetivo de Evoluir Pessoas e Transformar Vidas
 
+</td>
+</table>
 
 # Experiências e habilidades
 
