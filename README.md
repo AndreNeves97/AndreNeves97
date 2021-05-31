@@ -5,7 +5,7 @@
 ## Olá, seja bem vindo(a) ao meu perfil
 
 <table>
-<td><img src="./profile-avatar.jpeg"></td>
+<td><img src="./profile-avatar.jpeg" alt="André Neves"></td>
 <td>
 Sou estudante de Engenharia de Computação pelo CEFET MG e Desenvolvedor de software. Atualmente trabalho com Ionic, além de estudar e desenvolver em Flutter nas horas vagas.
 
