@@ -1,4 +1,8 @@
-# Olá, seja bem vindo(a) ao meu perfil
+# André Neves - Meus projetos
+
+![Software development portfolio](./main.jpg)
+
+## Olá, seja bem vindo(a) ao meu perfil
 
 <table>
 <td><img src="./profile-avatar.jpeg"></td>
