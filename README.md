@@ -1,6 +1,6 @@
 # André Neves - Meus projetos
 
-<img src="./main.jpg" alt="Software development portfolio" style="width: 100%; max-height: 340px; object-fit: cover;object-position: 100% 42%;">
+<img src="./main.png" alt="Software development portfolio">
 
 ## Olá, seja bem vindo(a) ao meu perfil
 
