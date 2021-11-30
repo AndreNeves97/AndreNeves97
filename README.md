@@ -36,7 +36,7 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 
 # Outros perfis
 
-- Passei direto: [https://www.passeidireto.com/perfil/44694466/](https://www.passeidireto.com/perfil/44694466/)
+- Passei direto: [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
 
 # Meu portfólio
 
