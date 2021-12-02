@@ -18,8 +18,9 @@ Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que po
 
 <div align="start">
   <a href="https://github.com/AndreNeves97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNeves97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNeves97&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNeves97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNeves97&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 # Experiências e habilidades
