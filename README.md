@@ -149,7 +149,7 @@ Esse projeto foi parte de um trabalho da disciplina de sistemas distribuídos.
 
 Contém a implementação do jogo Drench no modo multiplayer. O objetivo foi implementar uma comunicação entre dois dispositivos via Sockets sobre os protocolos TCP, UDP e gRPC. No momento de estabelecer a conexão, o usuário escolhe qual método utilizar
 
-Mais informações e código: [https://github.com/leonamtv/drench-sd](https://github.com/leonamtv/drench-sd)
+Mais informações e código: [https://github.com/AndreNeves97/drench-sd-flutter](https://github.com/AndreNeves97/drench-sd-flutter)
 
 
 Artigos sobre o trabalho:
