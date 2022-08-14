@@ -51,6 +51,7 @@ Abaixo listo meus principais projetos de software e projetos acadêmicos.
 
 ## Aplicativos mobile e web apps
 
+- [Aplicativo para controle de despesas pessoais](https://github.com/AndreNeves97/personal-finances-app-flutter)
 - [Anatome - Aplicativo para ensino de anatomia](https://github.com/anatome-a11y/app_flutter)
 - [Jogo Drench em Flutter para dois jogadores via conexão Peer-to-Peer](#jogo-drench-em-flutter)
 - [Pedidoctor - Sistema para marcação de consultas em diferentes clínicas médicas](#pedidoctor)
