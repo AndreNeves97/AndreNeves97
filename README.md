@@ -2,16 +2,20 @@
 
 <img src="./main.png" alt="Software development portfolio">
 
-## Olá, seja bem vindo(a) ao meu perfil
+## Hello! You are welcome to my profile.
 
 <table>
 <td><img src="./profile-avatar.jpeg" alt="André Neves"></td>
 <td>
-Sou estudante de Engenharia de Computação pelo CEFET MG e Desenvolvedor de software. Atualmente trabalho com Ionic, além de estudar e desenvolver em Flutter nas horas vagas.
+I'm bachelor's student in Compute Engineering and Software Developer. I currently work with Ionic and Angular.js, and am excited about several other technology subjects, as: Backend development, mobile development with Flutter, data engineering and machine learning.
 
-Desde sempre, um amante de tecnologia e da forma como ela pode ser relevante e transformadora para o mundo e para as pessoas.
+I've been a technology enthusiast since childhood. I wrote my first programming codes when I was 13 years old.
 
-Atuo como desenvolvedor Frontend na mLearn Educação Móvel, uma empresa que por meio da tecnologia, com o aplicativo Qualifica e outros projetos, está sempre em foco do seu objetivo de Evoluir Pessoas e Transformar Vidas
+Since 2017, I'm bachelor's student in Compute Engineering at CEFET MG, a renowned public college at Brazil. I studied several subjects such as: Basic engineering subjects (Calculus and physics), digital systems for computing, computer organization and architecture, algorithms and data structures, fundamentals of computer networks, software engineering, operational systems, compilers, artificial intelligence, distributed systems and computer graphics.
+
+I'm finishing my bachelor's degree in college, where I learned essential fundamentals for a good software engineer. For my graduation paper, I'm developing a research and a case study about recommendations systems with Graphs Neural Networks.
+
+I worked in the last three years as a web developer on relevant professional projects.
 
 </td>
 </table>
