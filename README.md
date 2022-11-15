@@ -1,4 +1,4 @@
-# André Neves - Meus projetos
+# André Neves - My projects
 
 <img src="./main.png" alt="Software development portfolio">
 
