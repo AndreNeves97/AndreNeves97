@@ -27,7 +27,7 @@ I worked in the last three years as a web developer on relevant professional pro
   </a>
 </div>
 
-# Experiências e habilidades
+# Experiences and skills
 
 - Desenvolvimento mobile
 - Desenvolvimento web
