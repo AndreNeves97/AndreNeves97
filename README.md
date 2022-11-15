@@ -40,45 +40,44 @@ I worked in the last three years as a web developer on relevant professional pro
 
 
 
-# Contato
+# Contact
 
 - Email: andreneves3@gmail.com
 - Linkedin: [https://www.linkedin.com/in/andre-neves-dev/](https://www.linkedin.com/in/andre-neves-dev/)
 
-# Outros perfis
+# Another profile pages
 
 - Passei direto: [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
 
-# Meu portfólio
+# My portfolio
 
-Abaixo listo meus principais projetos de software e projetos acadêmicos.
+Below, o list my main software and academic projects
 
-## Aplicativos mobile e web apps
+## Mobile and Web Apps
 
 - [WebApp that consumes the Github API to search users (Angular)](https://github.com/AndreNeves97/github-search-angular)
 - [App to organize personal finances (Flutter)](https://github.com/AndreNeves97/personal-finances-app-flutter)
-- [Jogo Drench para dois jogadores via conexão Peer-to-Peer (Flutter)](#jogo-drench-em-flutter)
-- [Anatome - Aplicativo para ensino de anatomia (Flutter)](https://github.com/anatome-a11y/app_flutter)
-- [Pedidoctor - Sistema para marcação de consultas em diferentes clínicas médicas (Angular)](#pedidoctor)
-- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour (Ionic/Angular)](https://github.com/AndreNeves97/knights-tour-algorithm)
+- [Two-player Drench Game via Peer-to-Peer connection (Flutter)](#jogo-drench-em-flutter)
+- [Anatome - Mobile App to teach Anatomy (Flutter)](https://github.com/anatome-a11y/app_flutter)
+- [Pedidoctor - Medical appointment scheduling system (Angular)](#pedidoctor)
+- [Graphic implementation for Knight's tour backtracking algorithm (Ionic/Angular)](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 
-## Trabalhos acadêmicos
+## Academic works
 
-- [Álgebra linear](#álgebra-linear)
-- [Algoritmos e estruturas de dados](#algoritmos-e-estruturas-de-dados)
-- [Arquitetura e organização de computadores](#arquitetura-e-organização-de-computadores)
-- [Banco de dados](#banco-de-dados)
-- [Compiladores](#compiladores)
-- [Computação gráfica](#computação-gráfica)
-- [Engenharia de software](#engenharia-de-software)
-- [Inteligência artifical](#inteligência-artifical)
-- [Sistemas distribuídos](#sistemas-distribuídos)
-- [Microprocessadores e microcontroladores](#microprocessadores-e-microcontroladores)
-- [Programação concorrente](#programação-concorrente)
+- [Linear Algebra](#álgebra-linear)
+- [Algorithms and Data Structures](#algoritmos-e-estruturas-de-dados)
+- [Computer Organization and Architecture](#arquitetura-e-organização-de-computadores)
+- [Databases](#banco-de-dados)
+- [Compilers](#compiladores)
+- [Computer Graphics](#computação-gráfica)
+- [Software Engineering](#engenharia-de-software)
+- [Artificial Intelligence](#inteligência-artifical)
+- [Distributed Systems](#sistemas-distribuídos)
+- [Microprocessors and microcontrollers](#microprocessadores-e-microcontroladores)
+- [Concurrent computing](#programação-concorrente)
 
-# Projetos do portfólio
-
+# Portfolio projects
 
 ## Algoritmos e estruturas de dados
 
