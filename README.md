@@ -29,8 +29,8 @@ I worked in the last three years as a web developer on relevant professional pro
 
 # Experiences and skills
 
-- Desenvolvimento mobile
-- Desenvolvimento web
+- Mobile development
+- Web development
 - Javascript (Angular, Ionic)
 - Cordova
 - Flutter
