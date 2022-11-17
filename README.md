@@ -7,13 +7,13 @@
 <table>
 <td><img src="./profile-avatar.jpeg" alt="André Neves"></td>
 <td>
-I'm bachelor's student in Compute Engineering and Software Developer. I currently work with Ionic and Angular.js, and am excited about several other technology subjects, as: Backend development, mobile development with Flutter, data engineering and machine learning.
+I'm bachelor's student in Compute Engineering and Software Developer. I currently work with Ionic and Angular.js, and am excited about several other technology subjects, as: Backend development, mobile development with Flutter, data engineering and machine learning. <br>
 
-I've been a technology enthusiast since childhood. I wrote my first programming codes when I was 13 years old.
+I've been a technology enthusiast since childhood. I wrote my first programming codes when I was 13 years old. <br>
 
-Since 2017, I'm bachelor's student in Compute Engineering at CEFET MG, a renowned public college at Brazil. I studied several subjects such as: Basic engineering subjects (Calculus and physics), digital systems for computing, computer organization and architecture, algorithms and data structures, fundamentals of computer networks, software engineering, operational systems, compilers, artificial intelligence, distributed systems and computer graphics.
+Since 2017, I'm bachelor's student in Compute Engineering at CEFET MG, a renowned public college at Brazil. I studied several subjects such as: Basic engineering subjects (Calculus and physics), digital systems for computing, computer organization and architecture, algorithms and data structures, fundamentals of computer networks, software engineering, operational systems, compilers, artificial intelligence, distributed systems and computer graphics. <br>
 
-I'm finishing my bachelor's degree in college, where I learned essential fundamentals for a good software engineer. For my graduation paper, I'm developing a research and a case study about recommendations systems with Graphs Neural Networks.
+I'm finishing my bachelor's degree in college, where I learned essential fundamentals for a good software engineer. For my graduation paper, I'm developing a research and a case study about recommendations systems with Graphs Neural Networks. <br>
 
 I worked in the last three years as a web developer on relevant professional projects.
 
