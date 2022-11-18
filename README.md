@@ -51,7 +51,7 @@ I worked in the last three years as a web developer on relevant professional pro
 
 # My portfolio
 
-Below, o list my main software and academic projects
+Below, I list my main software and academic projects
 
 ## Mobile and Web Apps
 
