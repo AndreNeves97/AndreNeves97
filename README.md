@@ -53,6 +53,12 @@ I worked in the last three years as a web developer on relevant professional pro
 
 Below, I list my main software and academic projects
 
+## General projects
+
+- [Node.js advanced concepts](https://github.com/AndreNeves97/nodejs-advanced-concepts)
+
+
+
 ## Mobile and Web Apps
 
 - [WebApp that consumes the Github API to search users (Angular)](https://github.com/AndreNeves97/github-search-angular)
