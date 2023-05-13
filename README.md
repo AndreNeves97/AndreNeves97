@@ -2,30 +2,19 @@
 
 <img src="./main.png" alt="Software development portfolio">
 
-## Hello! You are welcome to my profile.
 
 <table>
 <td><img src="./profile-avatar.jpeg" alt="André Neves"></td>
 <td>
-I'm bachelor's student in Compute Engineering and Software Developer. I currently work with Ionic and Angular.js, and am excited about several other technology subjects, as: Backend development, mobile development with Flutter, data engineering and machine learning. <br>
+Senior software engineer and tech lead with 5 years of experience, specialized in front-end and mobile development. Interested in other technology subjects such as backend development, data engineering, and machine learning.
 
-I've been a technology enthusiast since childhood. I wrote my first programming codes when I was 13 years old. <br>
-
-Since 2017, I'm bachelor's student in Compute Engineering at CEFET MG, a renowned public college at Brazil. I studied several subjects such as: Basic engineering subjects (Calculus and physics), digital systems for computing, computer organization and architecture, algorithms and data structures, fundamentals of computer networks, software engineering, operational systems, compilers, artificial intelligence, distributed systems and computer graphics. <br>
-
-I'm finishing my bachelor's degree in college, where I learned essential fundamentals for a good software engineer. For my graduation paper, I'm developing a research and a case study about recommendations systems with Graphs Neural Networks. <br>
-
-I worked in the last three years as a web developer on relevant professional projects.
-
+- Collaborated to fix more than 30 bugs that were critical to user experience;
+- Collaborated with the backend team to improve an endpoint response time by 99%;
+- Implemented a design system oriented by the Atomic Design Methodology, improving the Developer Experience (DX);
+- Collaborated to hire developers for the frontend team, and coached a junior developer in his first IT experience.
 </td>
 </table>
 
-<div align="start">
-  <a href="https://github.com/AndreNeves97">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNeves97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNeves97&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
 # Experiences and skills
 
@@ -42,10 +31,9 @@ I worked in the last three years as a web developer on relevant professional pro
 
 # Contact
 
-- Email: andreneves3@gmail.com
 - Linkedin: [https://www.linkedin.com/in/andre-neves-dev/](https://www.linkedin.com/in/andre-neves-dev/)
 
-# Another profile pages
+# Other profile pages
 
 - Passei direto: [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
 
@@ -69,7 +57,7 @@ Below, I list my main software and academic projects
 - [Graphic implementation for Knight's tour backtracking algorithm (Ionic/Angular)](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 
-## Academic works
+## College subjects
 
 - [Linear Algebra](#álgebra-linear)
 - [Algorithms and Data Structures](#algoritmos-e-estruturas-de-dados)
@@ -83,7 +71,7 @@ Below, I list my main software and academic projects
 - [Microprocessors and microcontrollers](#microprocessadores-e-microcontroladores)
 - [Concurrent computing](#programação-concorrente)
 
-# Portfolio projects
+# College projects
 
 ## Algoritmos e estruturas de dados
 
