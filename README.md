@@ -47,20 +47,37 @@ Senior software engineer and tech lead with 5 years of experience, specialized i
 
 - Passei direto: [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
 
-# My portfolio
+# 👨🏻‍💻 Projects
 
-Below, I list my main software and academic projects
+## [Github Search (Angular)](https://github.com/AndreNeves97/github-search-angular)
 
-## General projects
+Angular WebApp that consumes the Github API to search users. More information at the [README.md](https://github.com/AndreNeves97/github-search-angular#readme) file.
+- [Source code](https://github.com/AndreNeves97/github-search-angular)
+- [Public link](https://github-search-f7f52.web.app/)
 
-- [Node.js advanced concepts](https://github.com/AndreNeves97/nodejs-advanced-concepts)
+
+## [Personal finances app (Flutter)](https://github.com/AndreNeves97/personal-finances-app-flutter)
+
+Flutter App to organize personal finances.
+
+- [Source code](https://github.com/AndreNeves97/personal-finances-app-flutter)
+
+
+## [Node.js advanced concepts showcase](https://github.com/AndreNeves97/nodejs-advanced-concepts)
+
+A small project with some of the main advanced concepts in Node.js, such as event-emitter, streams, and buffers.
+
+- [Source code](https://github.com/AndreNeves97/nodejs-advanced-concepts)
+
+
+## [Node.js notifications service](https://github.com/AndreNeves97/notifications-service-nestjs)
+
+Nest.js microservice to manage notifications sending.
+- [Source code](https://github.com/AndreNeves97/notifications-service-nestjs)
 
 
 
-## Mobile and Web Apps
-
-- [WebApp that consumes the Github API to search users (Angular)](https://github.com/AndreNeves97/github-search-angular)
-- [App to organize personal finances (Flutter)](https://github.com/AndreNeves97/personal-finances-app-flutter)
+## Others
 - [Two-player Drench Game via Peer-to-Peer connection (Flutter)](#jogo-drench-em-flutter)
 - [Anatome - Mobile App to teach Anatomy (Flutter)](https://github.com/anatome-a11y/app_flutter)
 - [Pedidoctor - Medical appointment scheduling system (Angular)](#pedidoctor)
