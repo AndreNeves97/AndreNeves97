@@ -1,4 +1,4 @@
-# André Neves - My projects
+# André Neves
 
 <img src="./main.png" alt="Software development portfolio">
 
@@ -16,22 +16,32 @@ Senior software engineer and tech lead with 5 years of experience, specialized i
 </table>
 
 
-# Experiences and skills
+# 🛠️ Skills
 
-- Mobile development
-- Web development
-- Javascript (Angular, Ionic)
-- Cordova
-- Flutter
-- Node.js (Express, Nest.js, Typeorm)
-- Java (Spring Boot, JPA)
-- Python
+- Programming languages: Javascript, Typescript, Dart, Java
+- Tools / Frameworks: Angular, Ionic, Flutter, Node.js, Nest.js, Spring Framework
+- Databases:
+    - Client-side databases: Lovefield, IndexedDB.
+    - Backend: MySQL, MongoDB, PostgreSQL.
+
+# 💬 Contact
+
+<ul>
+    <li>
+        <div style="display: flex; align-items: center;">
+            <img width=15 src="./img/linkedin.png"> <span style="margin: 0 6px">Linkedin:</span> <a href="https://www.linkedin.com/in/andre-neves-dev/">https://www.linkedin.com/in/andre-neves-dev/</a>
+        </div>
+    </li>
+    <li>
+        <div style="display: flex; align-items: center;">
+            <img width=15 src="./img/github.png"> <span style="margin: 0 6px">GitHub:</span> <a href="https://github.com/AndreNeves97/">https://github.com/AndreNeves97/</a>
+        </div>
+    </li>
+</ul>
 
 
 
-# Contact
 
-- Linkedin: [https://www.linkedin.com/in/andre-neves-dev/](https://www.linkedin.com/in/andre-neves-dev/)
 
 # Other profile pages
 
@@ -57,7 +67,7 @@ Below, I list my main software and academic projects
 - [Graphic implementation for Knight's tour backtracking algorithm (Ionic/Angular)](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 
-## College subjects
+# 📚 College subjects
 
 - [Linear Algebra](#álgebra-linear)
 - [Algorithms and Data Structures](#algoritmos-e-estruturas-de-dados)
@@ -70,8 +80,6 @@ Below, I list my main software and academic projects
 - [Distributed Systems](#sistemas-distribuídos)
 - [Microprocessors and microcontrollers](#microprocessadores-e-microcontroladores)
 - [Concurrent computing](#programação-concorrente)
-
-# College projects
 
 ## Algoritmos e estruturas de dados
 
