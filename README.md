@@ -4,7 +4,7 @@
 
 
 <table>
-<td><img src="./profile-avatar.jpeg" alt="André Neves"></td>
+<td><img src="./profile-avatar.jpg" alt="André Neves"></td>
 <td>
 Senior software engineer and tech lead with 5 years of experience, specialized in front-end and mobile development. Interested in other technology subjects such as backend development, data engineering, and machine learning.
 
