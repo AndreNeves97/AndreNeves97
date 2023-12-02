@@ -6,7 +6,7 @@
 <table>
 <td><img src="./profile-avatar.jpg" alt="André Neves"></td>
 <td>
-Senior software engineer and tech lead with 5 years of experience, specialized in front-end and mobile development. Interested in other technology subjects such as backend development, data engineering, and machine learning.
+Senior software engineer with more than 5 years of experience, specialized in front-end and mobile development. Interested in other technology subjects such as backend development, data engineering, and machine learning.
 
 - Collaborated to fix more than 30 bugs that were critical to user experience;
 - Collaborated with the backend team to improve an endpoint response time by 99%;
