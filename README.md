@@ -109,7 +109,6 @@ Nest.js microservice to manage notifications sending.
 - [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/resolucao-de-problemas-com-programacao-dinamica.pdf)
 
 - [Explicação da resolução do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/explicacao-problema-desmascarando-empregado-do-sultao.pdf)
-   - Descrição do problema: [https://www.urionlinejudge.com.br/judge/pt/problems/view/1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597)
 
 - [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
 
