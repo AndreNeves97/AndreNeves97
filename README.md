@@ -6,23 +6,29 @@
 <table>
 <td><img src="./profile-avatar.jpg" alt="André Neves"></td>
 <td>
-Senior software engineer with more than 5 years of experience, specialized in front-end and mobile development. Interested in other technology subjects such as backend development, data engineering, and machine learning.
+Senior software engineer with 7+ years of experience, specialized in frontend development with strong full-stack capabilities. Strong expertise in Angular, TypeScript, and frontend architecture, with complementary experience in Node.js, Java/Spring Boot, PHP, database optimization, and DevOps practices.
 
-- Collaborated to fix more than 30 bugs that were critical to user experience;
-- Collaborated with the backend team to improve an endpoint response time by 99%;
+- Led the migration of 10 enterprise projects from Angular 12 to 16, demonstrating strong frontend leadership;
 - Implemented a design system oriented by the Atomic Design Methodology, improving the Developer Experience (DX);
-- Collaborated to hire developers for the frontend team, and coached a junior developer in his first IT experience.
+- Developed full-stack solutions using Node.js/Nest.js, Java/Spring Boot, and PHP;
+- Achieved 99% performance improvement through MongoDB query optimization and strategic database indexing;
+- Participated in technical decisions about database structuring and API design patterns;
+- Led architecture decisions using Clean Architecture and SOLID principles;
+- Implemented CI/CD pipelines and DevOps practices with Docker and Nginx;
+- Collaborated to fix more than 30 bugs that were critical to user experience;
+- Collaborated to hire developers and coached a junior developer in his first IT experience.
 </td>
 </table>
 
 
 # 🛠️ Skills
 
-- Programming languages: Javascript, Typescript, Dart, Java
-- Tools / Frameworks: Angular, Ionic, Flutter, Node.js, Nest.js, Spring Framework
-- Databases:
-    - Client-side databases: Lovefield, IndexedDB.
-    - Backend: MySQL, MongoDB, PostgreSQL.
+- Programming languages: Javascript, Typescript, Java, PHP, Dart
+- Frontend (Primary Focus): Angular, Ionic, Flutter, TypeScript
+- Full-Stack & Backend: Node.js, Nest.js, Java/Spring Boot, PHP
+- Databases: MongoDB, MySQL, PostgreSQL, Oracle (with optimization expertise)
+- Architecture & Design: Clean Architecture, Domain-Driven Design, System Design
+- DevOps: Docker, Nginx, CI/CD, Infrastructure as Code
 
 # 💬 Contact
 
