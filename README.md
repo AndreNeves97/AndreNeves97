@@ -51,7 +51,7 @@ Senior software engineer with 7+ years of experience, specialized in frontend de
 
 # Other profile pages
 
-- Passei direto: [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
+- Passei Direto (Brazilian academic platform): [https://www.passeidireto.com/perfil/330404-andre-neves/](https://www.passeidireto.com/perfil/330404-andre-neves/)
 
 # 👨🏻‍💻 Projects
 
@@ -84,7 +84,7 @@ Nest.js microservice to manage notifications sending.
 
 
 ## Others
-- [Two-player Drench Game via Peer-to-Peer connection (Flutter)](#jogo-drench-em-flutter)
+- [Two-player Drench Game via Peer-to-Peer connection (Flutter)](#drench-game-in-flutter)
 - [Anatome - Mobile App to teach Anatomy (Flutter)](https://github.com/anatome-a11y/app_flutter)
 - [Pedidoctor - Medical appointment scheduling system (Angular)](#pedidoctor)
 - [Graphic implementation for Knight's tour backtracking algorithm (Ionic/Angular)](https://github.com/AndreNeves97/knights-tour-algorithm)
@@ -92,147 +92,144 @@ Nest.js microservice to manage notifications sending.
 
 # 📚 College subjects
 
-- [Linear Algebra](#álgebra-linear)
-- [Algorithms and Data Structures](#algoritmos-e-estruturas-de-dados)
-- [Computer Organization and Architecture](#arquitetura-e-organização-de-computadores)
-- [Databases](#banco-de-dados)
-- [Compilers](#compiladores)
-- [Computer Graphics](#computação-gráfica)
-- [Software Engineering](#engenharia-de-software)
-- [Artificial Intelligence](#inteligência-artifical)
-- [Distributed Systems](#sistemas-distribuídos)
-- [Microprocessors and microcontrollers](#microprocessadores-e-microcontroladores)
-- [Concurrent computing](#programação-concorrente)
+- [Linear Algebra](#linear-algebra)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Computer Organization and Architecture](#computer-organization-and-architecture)
+- [Databases](#databases)
+- [Compilers](#compilers)
+- [Computer Graphics](#computer-graphics)
+- [Software Engineering](#software-engineering)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Distributed Systems](#distributed-systems)
+- [Microprocessors and microcontrollers](#microprocessors-and-microcontrollers)
+- [Concurrent computing](#concurrent-computing)
 
-## Algoritmos e estruturas de dados
+## Algorithms and Data Structures
 
-- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/resolucao-de-problemas-com-programacao-dinamica.pdf)
+- [Solving problems with dynamic programming](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/resolucao-de-problemas-com-programacao-dinamica.pdf)
 
-- [Explicação da resolução do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/explicacao-problema-desmascarando-empregado-do-sultao.pdf)
+- [Explanation of the solution to the problem: Unmasking the Sultan's Employee](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/explicacao-problema-desmascarando-empregado-do-sultao.pdf)
 
-- [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
-
-
-## Arquitetura e organização de computadores
-
-- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/arquitetura-organizacao-computadores-pipeline-hierarquia-de-memoria.pdf)
-
-- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/resumo-the-RISC-penalty.pdf)
-
-## Compiladores
-
-Na disciplina de compiladores, foram propostos dois trabalhos: Um analisador léxico para a linguagem ANSI-C, e um analisador sintático para HTML.
-
-Acesse os projetos pelos links abaixo. 
-
-- [Compilador para HTML (Analisador léxico e sintático)](https://github.com/AndreNeves97/html-compiler)
-- [Compilador para linguagem C (Analisador léxico)](https://github.com/AndreNeves97/c-lexical-compiler) 
-
-## Inteligência artifical
-
-- [Implementações de algoritmos genéticos - FGA e NSGA](https://github.com/AndreNeves97/genetic-algorithm)
-- [Implementações de redes neurais - Perceptron simples e MLP](https://github.com/AndreNeves97/neural-network)
-
-## Programação concorrente
-
-- [Clusterizção  de  grafos  pelo  algoritmo K-Medoids comutilização  de  multiplas threads](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/PC/clusterizacao-de-grafos-algoritmo-k-Medoids-multiplas-threads.pdf)
-
-## Álgebra linear
-
-- [Conjuntos Convexos e Programação Linear](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AL/algebra-linear-programacao-linear.pdf)
-
-## Banco de dados
-
-- [Bancos de dados NoSQL](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/BD/bancos-de-dados-NoSQL.pdf)
+- [Graphic implementation of the backtracking algorithm for the Knight's tour problem](https://github.com/AndreNeves97/knights-tour-algorithm)
 
 
-## Engenharia de software
+## Computer Organization and Architecture
+
+- [Pipeline and Memory Hierarchy](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/arquitetura-organizacao-computadores-pipeline-hierarquia-de-memoria.pdf)
+
+- [Summary - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/resumo-the-RISC-penalty.pdf)
+
+## Compilers
+
+In the compilers course, two projects were proposed: A lexical analyzer for the ANSI-C language, and a syntactic analyzer for HTML.
+
+- [HTML Compiler (Lexical and syntactic analyzer)](https://github.com/AndreNeves97/html-compiler)
+- [C Language Compiler (Lexical analyzer)](https://github.com/AndreNeves97/c-lexical-compiler) 
+
+## Artificial Intelligence
+
+- [Genetic algorithm implementations - FGA and NSGA](https://github.com/AndreNeves97/genetic-algorithm)
+- [Neural network implementations - Simple Perceptron and MLP](https://github.com/AndreNeves97/neural-network)
+
+## Concurrent computing
+
+- [Graph clustering using the K-Medoids algorithm with multiple threads](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/PC/clusterizacao-de-grafos-algoritmo-k-Medoids-multiplas-threads.pdf)
+
+## Linear Algebra
+
+- [Convex Sets and Linear Programming](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AL/algebra-linear-programacao-linear.pdf)
+
+## Databases
+
+- [NoSQL Databases](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/BD/bancos-de-dados-NoSQL.pdf)
 
 
-### Seminário sobre DevOps
+## Software Engineering
 
-- [DevOps e Ambientes de Execução de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/devOps-e-ambientes-de-execucao-de-software.pdf)
+
+### DevOps Presentation
+
+- [DevOps and Software Execution Environments](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/devOps-e-ambientes-de-execucao-de-software.pdf)
 
 
 ### Pedidoctor
 
-Pedidoctor foi um projeto desenvolvido na disciplina de Engenharia de Software. O sistema tem como objetivo centralizar a marcação de consultas para diferentes clínicas médicas
+Pedidoctor was a project developed in the Software Engineering course. The system aims to centralize appointment scheduling for different medical clinics.
 
-Mais informações e códigos:
 - [Frontend - Angular](https://github.com/AndreNeves97/pedidoctor-angular)
 - [Backend - Node.js / Nest.js](https://github.com/AndreNeves97/pedidoctor-nodejs)
 
-Documentações:
-- [Documentação de desenvolvimento de projeto de software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/documentacao-de-software-pedidoctor.pdf)
-- [Trabalho prático de Teste de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/teste-de-software.pdf)
+Documentation:
+- [Software project development documentation](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/documentacao-de-software-pedidoctor.pdf)
+- [Software Testing practical work](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/teste-de-software.pdf)
 
 
-![Marcação de consultas](./portfolio/imgs/pedidoctor/fig1.png)
+![Appointment scheduling](./portfolio/imgs/pedidoctor/fig1.png)
 
-## Sistemas distribuídos
+## Distributed Systems
 
-### Jogo Drench em Flutter
+### Drench Game in Flutter
 
-Esse projeto foi parte de um trabalho da disciplina de sistemas distribuídos.
+This project was part of an assignment for the Distributed Systems course.
 
-Contém a implementação do jogo Drench no modo multiplayer. O objetivo foi implementar uma comunicação entre dois dispositivos via Sockets sobre os protocolos TCP, UDP e gRPC. No momento de estabelecer a conexão, o usuário escolhe qual método utilizar
+It contains the implementation of the Drench game in multiplayer mode. The goal was to implement communication between two devices via Sockets using TCP, UDP, and gRPC protocols. When establishing the connection, the user chooses which method to use.
 
-Mais informações e código: [https://github.com/AndreNeves97/drench-sd-flutter](https://github.com/AndreNeves97/drench-sd-flutter)
-
-
-Artigos sobre o trabalho:
-- [Comunicação multiplayer com TCP e UDP](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-TCP-e-UDP.pdf)
-- [Comunicação multiplayer com gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-gRPC.pdf)
+More information and code: [https://github.com/AndreNeves97/drench-sd-flutter](https://github.com/AndreNeves97/drench-sd-flutter)
 
 
-Vídeo com demosntração do jogo em funcionamento multiplayer: [https://www.youtube.com/watch?v=d5h8v_d_-H8](https://www.youtube.com/watch?v=d5h8v_d_-H8)
+Papers about the work:
+- [Multiplayer communication with TCP and UDP](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-TCP-e-UDP.pdf)
+- [Multiplayer communication with gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-gRPC.pdf)
+
+
+Video demonstration of the multiplayer game in action: [https://www.youtube.com/watch?v=d5h8v_d_-H8](https://www.youtube.com/watch?v=d5h8v_d_-H8)
 
 [![Drench video](https://img.youtube.com/vi/d5h8v_d_-H8/hqdefault.jpg)](https://www.youtube.com/watch?v=d5h8v_d_-H8)
 
 
-### Chat Peer-to-Peer
+### Peer-to-Peer Chat
 
-Desenvolvimento de um chat com multiplos usuários conectados ponta-a-ponta.
+Development of a chat with multiple users connected peer-to-peer.
 
-Mais informações e código: [https://github.com/AndreNeves97/node-p2p-chat](https://github.com/AndreNeves97/node-p2p-chat)
-
-
-Vídeo de demosntração: [https://www.youtube.com/watch?v=fsdCOiBw28w](https://www.youtube.com/watch?v=fsdCOiBw28w)
-
-[![Drench video](https://img.youtube.com/vi/fsdCOiBw28w/hqdefault.jpg)](https://www.youtube.com/watch?v=fsdCOiBw28w)
+More information and code: [https://github.com/AndreNeves97/node-p2p-chat](https://github.com/AndreNeves97/node-p2p-chat)
 
 
-## Computação gráfica
+Demonstration video: [https://www.youtube.com/watch?v=fsdCOiBw28w](https://www.youtube.com/watch?v=fsdCOiBw28w)
 
-Disciplina com foco nos conceitos fundamentais de computação gráfica. Como complementação ao conteúdo teóriico, foram feitos trabalhos práticos em WebGL e A-Frame
-
-- [Introdução à Computação Gráfica com WebGL](https://andreneves97.github.io/computer-graphics/public/)
-- [Jogo *Asteroids* desenvolvido em Javascript e A-Frame](https://leonamtv.github.io/cg-aframe/public/studies/tests-1/animation/)
-
-![Introdução à WebGL](./portfolio/imgs/computer-graphics/fig1.png)
-
-![Introdução à WebGL](./portfolio/imgs/computer-graphics/fig2.png)
+[![Peer-to-Peer Chat video](https://img.youtube.com/vi/fsdCOiBw28w/hqdefault.jpg)](https://www.youtube.com/watch?v=fsdCOiBw28w)
 
 
-## Microprocessadores e microcontroladores
+## Computer Graphics
 
-Nessa disciplina, houve aprofundamento sobre arquitetura de computadores, junto à prática de atividades com microcontroladores.
+Course focused on fundamental concepts of computer graphics. As a complement to the theoretical content, practical work was done in WebGL and A-Frame.
 
-### Cubo de led
+- [Introduction to Computer Graphics with WebGL](https://andreneves97.github.io/computer-graphics/public/)
+- [*Asteroids* game developed in Javascript and A-Frame](https://leonamtv.github.io/cg-aframe/public/studies/tests-1/animation/)
 
-Um dos trabalhos foi o desenvolvimento de um Cubo de led 8x8x8.
+![Introduction to WebGL](./portfolio/imgs/computer-graphics/fig1.png)
 
-Imagens, vídeos e códigos: [https://github.com/AndreNeves97/Cubo-de-led-8x8x8](https://github.com/AndreNeves97/Cubo-de-led-8x8x8)
-
-
-![Cubo de led 8x8x8](./portfolio/imgs/cubo-led/fig1.png)
+![Introduction to WebGL](./portfolio/imgs/computer-graphics/fig2.png)
 
 
-### Protótipo de monitoramento de consumo de energia elétrica via Web
+## Microprocessors and microcontrollers
 
-Esse foi um trabalho desenvolvido antes da disciplina, mas orientado pelo mesmo professor.
+In this course, there was an in-depth study of computer architecture, along with practical activities with microcontrollers.
 
-Teve como objetivo o desenvolvimento de um protótipo para acompanhamento do consumo de energia elétrica via Web, pelo celular e computador.
+### LED Cube
+
+One of the projects was the development of an 8x8x8 LED Cube.
+
+Images, videos, and code: [https://github.com/AndreNeves97/Cubo-de-led-8x8x8](https://github.com/AndreNeves97/Cubo-de-led-8x8x8)
+
+
+![8x8x8 LED Cube](./portfolio/imgs/cubo-led/fig1.png)
+
+
+### Web-based electrical energy consumption monitoring prototype
+
+This was a project developed before the course, but supervised by the same professor.
+
+The objective was to develop a prototype for monitoring electrical energy consumption via Web, accessible from mobile phones and computers.
 
 
 <table>
