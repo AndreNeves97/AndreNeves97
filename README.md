@@ -6,7 +6,6 @@
 <table>
 <td><img src="./profile-avatar.jpg" alt="André Neves"></td>
 <td>
-.....
 Senior software engineer with 7+ years of experience, specialized in frontend development with strong full-stack capabilities. Strong expertise in Angular, TypeScript, and frontend architecture, with complementary experience in Node.js, Java/Spring Boot, PHP, database optimization, and DevOps practices.
 
 - Led the migration of 10 enterprise projects from Angular 12 to 16, demonstrating strong frontend leadership;
