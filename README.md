@@ -106,9 +106,9 @@ Nest.js microservice to manage notifications sending.
 
 ## Algoritmos e estruturas de dados
 
-- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Resolu%C3%A7%C3%A3o%20de%20problemas%20com%20programa%C3%A7%C3%A3o%20din%C3%A2mica.pdf)
+- [Resolução de problemas com programação dinâmica](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/resolucao-de-problemas-com-programacao-dinamica.pdf)
 
-- [Explicação da resolução do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AED/Explicacao%20do%20problema%20-%20Desmascarando%20o%20Empregado%20do%20Sult%C3%A3o.pdf)
+- [Explicação da resolução do problema: Desmascarando o Empregado do Sultão](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AED/explicacao-problema-desmascarando-empregado-do-sultao.pdf)
    - Descrição do problema: [https://www.urionlinejudge.com.br/judge/pt/problems/view/1597](https://www.urionlinejudge.com.br/judge/pt/problems/view/1597)
 
 - [Implementação gráfica do algoritmo de backtracking para o problema Knight's tour](https://github.com/AndreNeves97/knights-tour-algorithm)
@@ -116,9 +116,9 @@ Nest.js microservice to manage notifications sending.
 
 ## Arquitetura e organização de computadores
 
-- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20computadoress%20-%20Pipeline%20e%20Hierarquia%20de%20mem%C3%B3ria.pdf)
+- [Pipeline e Hierarquia de memória](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/arquitetura-organizacao-computadores-pipeline-hierarquia-de-memoria.pdf)
 
-- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AOC/Resumo___The_RISC_penalty__.pdf)
+- [Resumo - The RISC Penalty](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AOC/resumo-the-RISC-penalty.pdf)
 
 ## Compiladores
 
@@ -136,15 +136,15 @@ Acesse os projetos pelos links abaixo.
 
 ## Programação concorrente
 
-- [Clusterizção  de  grafos  pelo  algoritmo K-Medoids comutilização  de  multiplas threads](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/PC/Clusteriz%C3%A7%C3%A3o%20%20de%20%20grafos%20%20pelo%20%20algoritmo%20K-Medoids%20com%20utiliza%C3%A7%C3%A3o%20%20de%20%20multiplas%20threads.pdf)
+- [Clusterizção  de  grafos  pelo  algoritmo K-Medoids comutilização  de  multiplas threads](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/PC/clusterizacao-de-grafos-algoritmo-k-Medoids-multiplas-threads.pdf)
 
 ## Álgebra linear
 
-- [Conjuntos Convexos e Programação Linear](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/AL/%C3%81lgebra%20Linear%20-%20Programa%C3%A7%C3%A3o%20linear.pdf)
+- [Conjuntos Convexos e Programação Linear](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/AL/algebra-linear-programacao-linear.pdf)
 
 ## Banco de dados
 
-- [Bancos de dados NoSQL](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/BD/Bancos%20de%20dados%20NoSQL.pdf)
+- [Bancos de dados NoSQL](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/BD/bancos-de-dados-NoSQL.pdf)
 
 
 ## Engenharia de software
@@ -152,7 +152,7 @@ Acesse os projetos pelos links abaixo.
 
 ### Seminário sobre DevOps
 
-- [DevOps e Ambientes de Execução de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/DevOps%20e%20Ambientes%20de%20Execu%C3%A7%C3%A3o%20de%20Software%0A.pdf)
+- [DevOps e Ambientes de Execução de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/devOps-e-ambientes-de-execucao-de-software.pdf)
 
 
 ### Pedidoctor
@@ -164,8 +164,8 @@ Mais informações e códigos:
 - [Backend - Node.js / Nest.js](https://github.com/AndreNeves97/pedidoctor-nodejs)
 
 Documentações:
-- [Documentação de desenvolvimento de projeto de software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/Documentacao%20de%20software%20-%20Pedidoctor.pdf)
-- [Trabalho prático de Teste de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/ES/Teste%20de%20Software.pdf)
+- [Documentação de desenvolvimento de projeto de software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/documentacao-de-software-pedidoctor.pdf)
+- [Trabalho prático de Teste de Software](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/ES/teste-de-software.pdf)
 
 
 ![Marcação de consultas](./portfolio/imgs/pedidoctor/fig1.png)
@@ -182,8 +182,8 @@ Mais informações e código: [https://github.com/AndreNeves97/drench-sd-flutter
 
 
 Artigos sobre o trabalho:
-- [Comunicação multiplayer com TCP e UDP](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/SD/SD%20-%20Comunica%C3%A7%C3%A3o%20entre%20processos%20com%20TCP%20e%20UDP.pdf)
-- [Comunicação multiplayer com gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/trabalhos%20academicos/SD/SD%20-%20Comunica%C3%A7%C3%A3o%20entre%20processos%20com%20gRPC.pdf)
+- [Comunicação multiplayer com TCP e UDP](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-TCP-e-UDP.pdf)
+- [Comunicação multiplayer com gRPC](https://github.com/AndreNeves97/AndreNeves97/blob/master/portfolio/academic-papers/SD/SD-Comunicacao-entre-processos-com-gRPC.pdf)
 
 
 Vídeo com demosntração do jogo em funcionamento multiplayer: [https://www.youtube.com/watch?v=d5h8v_d_-H8](https://www.youtube.com/watch?v=d5h8v_d_-H8)
