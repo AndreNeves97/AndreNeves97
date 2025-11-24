@@ -43,6 +43,11 @@ Senior software engineer with 7+ years of experience, specialized in frontend de
             <img width=15 src="./img/github.png"> <span style="margin: 0 6px">GitHub:</span> <a href="https://github.com/AndreNeves97/">https://github.com/AndreNeves97/</a>
         </div>
     </li>
+    <li>
+        <div style="display: flex; align-items: center;">
+            📄 <span style="margin: 0 6px">Resume:</span> <a href="https://andreneves.dev/resume.pdf">https://andreneves.dev/resume.pdf</a>
+        </div>
+    </li>
 </ul>
 
 
