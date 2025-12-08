@@ -60,6 +60,28 @@ Senior software engineer with 7+ years of experience, specialized in frontend de
 
 # 👨🏻‍💻 Projects
 
+## [DevOps Labs - Kubernetes Cluster Infrastructure](https://github.com/AndreNeves97/devops-labs)
+
+Workshop lab about DevOps, Terraform, Kubernetes, and GitOps. This project demonstrates infrastructure as code practices with Terraform to provision AWS EKS clusters, CI/CD pipelines for automated Docker image builds and deployments, and GitOps methodology using ArgoCD for continuous deployment. The infrastructure includes backend and frontend applications deployed on Kubernetes with automated synchronization from Git repositories.
+
+- [Source code](https://github.com/AndreNeves97/devops-labs)
+- [GitOps repository](https://github.com/AndreNeves97/devops-labs-gitops)
+
+## [Stripeflow Angular](https://github.com/AndreNeves97/stripeflow-angular)
+
+Study project with Angular, featuring a replication of a Stripe-like payment dashboard. This project showcases relevant techniques including Clean Architecture with clear separation of domain, infrastructure, and presentation layers, reactive UI state management using RxJS, advanced filtering system with abstraction and inheritance, and modern Angular patterns including standalone components and dependency injection. The application includes a comprehensive payments table with advanced filtering, sorting, pagination, and multi-column sorting capabilities.
+
+- [Source code](https://github.com/AndreNeves97/stripeflow-angular)
+- [Public link](https://stripeflow-ce38a.web.app/)
+
+## [ADK Agent Test - Multi-Tool Weather Agent](https://github.com/AndreNeves97/adk-agent-test)
+
+Experimentation of the Google Agent Development Kit (ADK). A Python-based weather agent that demonstrates the integration of multiple APIs and tools to provide comprehensive weather information and location services. The project showcases API integration with OpenWeatherMap and Nominatim geocoding services, error handling, and environment management. The agent can handle complex multi-step queries, chain multiple API calls together, and perform calculations on gathered data.
+
+- [Source code](https://github.com/AndreNeves97/adk-agent-test)
+
+---
+
 ## [Github Search (Angular)](https://github.com/AndreNeves97/github-search-angular)
 
 Angular WebApp that consumes the Github API to search users. More information at the [README.md](https://github.com/AndreNeves97/github-search-angular#readme) file.
